@@ -1,2 +1,1 @@
-# RealGreenAndroidUIAutomation
-IU Automation Framework 
+# TestAutomation-PestPacMobileUI
